@@ -26,9 +26,9 @@ npm run build
 
 
 ### 自定义配置和支持网站
-👀 [Configuration Reference](https://cli.vuejs.org/config/).
+👀 [cli-vue](https://cli.vuejs.org/config/).
 
-👀 [Configuration Reference](https://pusher.com/chatkit).
+👀 [@pusher/chatkit](https://pusher.com/chatkit).
 
 
 
@@ -36,7 +36,7 @@ npm run build
 
 ### 官网
 
-[]: https://pusher.com/chatkit
+[pusher]: https://pusher.com/chatkit
 
 在此网址按步骤配置`chatkit`
 
