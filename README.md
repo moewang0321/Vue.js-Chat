@@ -64,6 +64,12 @@ npm run build
 
 最后在下图中找到 `Instance Locator`和` Test Token `,替换掉根目录里中`.env.local`文件中全局变量`VUE_APP_INSTANCE_LOCATOR`和`VUE_APP_TOKEN_URL` 的值
 
+![](https://i.loli.net/2019/11/12/iWd17LJ3vUxFQAg.png)
+
+
+
+✔大功告成
+
 
 
 
